@@ -1,0 +1,5 @@
+2024-03-25 19:15:10 [main] INFO  c.m.p.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.4.1 with PID 30665 (/Users/pavanvasan/Backend Projects Walkthrough/microservices-pavan/twitter-to-kafka-service/target/classes started by pavanvasan in /Users/pavanvasan/Backend Projects Walkthrough/microservices-pavan)
+2024-03-25 19:15:10 [main] INFO  c.m.p.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-03-25 19:15:11 [main] INFO  c.m.p.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.819 seconds (process running for 1.31)
+2024-03-25 19:15:11 [main] INFO  c.m.p.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2024-03-25 19:15:11 [main] INFO  c.m.p.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
