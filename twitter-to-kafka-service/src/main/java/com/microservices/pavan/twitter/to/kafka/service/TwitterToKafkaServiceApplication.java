@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import com.microservices.pavan.twitter.to.kafka.service.config.TwitterToKafkaServiceConfigData;
+import com.microservices.pavan.config.TwitterToKafkaServiceConfigData;
 import com.microservices.pavan.twitter.to.kafka.service.runner.StreamRunner;
 import org.springframework.context.annotation.ComponentScan;
 

@@ -15,7 +15,8 @@
 	<description>Probing Project for Spring Boot</description>
 	<modules>
 		<module>twitter-to-kafka-service</module>
-	</modules>
+        <module>app-config-data</module>
+    </modules>
 	<packaging>pom</packaging>
 
 	<properties>
@@ -32,6 +33,12 @@
 
 	<dependencyManagement>
 		<dependencies>
+			<dependency>
+				<groupId>com.microservices.pavan</groupId>
+				<artifactId>app-config-data</artifactId>
+				<version>${project.version}</version>
+			</dependency>
+
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-starter</artifactId>
